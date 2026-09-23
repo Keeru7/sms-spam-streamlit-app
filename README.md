@@ -34,3 +34,4 @@ Open Anaconda Prompt and go to the project folder:
 
 ```bash
 cd "%USERPROFILE%\Desktop\SMS Spam Streamlit App"
+streamlit run app.py
